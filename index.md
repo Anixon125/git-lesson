@@ -1,4 +1,4 @@
-# My GitBug pages website
+# My GitHub pages website
 
 **bolt text**
 
